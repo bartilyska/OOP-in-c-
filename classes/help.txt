@@ -1,0 +1,9 @@
+9 10 7
+Lis 2 0 5 3 7 L 
+Czlowiek 7 7 5 8 4 C 3
+Antylopa 8 6 5 4 4 A 
+Zolw 8 1 5 2 1 Z 
+BarszczSosnowskiego 3 6 5 9999 0 B 
+Guarana 1 9 5 0 0 G 
+WilczeJagody 6 8 5 9999 0 J 
+WilczeJagody 5 8 1 9999 0 J 

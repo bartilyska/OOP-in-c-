@@ -1,0 +1,20 @@
+10 10 10
+Lis 7 4 2 3 7 L 
+Lis 7 5 2 3 7 L 
+Wilk 2 3 2 9 5 W 
+Wilk 0 7 2 9 5 W 
+Czlowiek 6 0 2 5 4 C 0
+Owca 6 1 2 4 4 O 
+Owca 1 8 2 4 4 O 
+Zolw 9 1 2 2 1 Z 
+Zolw 9 0 2 2 1 Z 
+Guarana 5 4 2 0 0 G 
+Mlecz 8 0 2 0 0 M 
+Trawa 8 1 2 0 0 T 
+BarszczSosnowskiego 4 5 2 9999 0 B 
+Guarana 5 5 2 0 0 G 
+Mlecz 4 3 2 0 0 M 
+Trawa 3 4 2 0 0 T 
+WilczeJagody 2 1 2 9999 0 J 
+Lis 8 5 1 3 7 L 
+Trawa 4 4 1 0 0 T 

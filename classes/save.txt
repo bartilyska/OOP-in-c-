@@ -1,0 +1,26 @@
+10 10 8
+Lis 2 8 3 3 7 L 
+Lis 5 4 3 3 7 L 
+Wilk 4 2 3 9 5 W 
+Wilk 3 2 3 9 5 W 
+Czlowiek 5 3 3 9 4 C 4
+Antylopa 3 8 3 4 4 A 
+Owca 1 5 3 4 4 O 
+Antylopa 2 6 3 4 4 A 
+Owca 8 2 3 4 4 O 
+Zolw 1 0 3 2 1 Z 
+Zolw 2 0 3 2 1 Z 
+BarszczSosnowskiego 9 8 3 9999 0 B 
+Guarana 7 3 3 0 0 G 
+Mlecz 4 6 3 0 0 M 
+Trawa 8 3 3 0 0 T 
+WilczeJagody 9 7 3 9999 0 J 
+BarszczSosnowskiego 4 9 3 9999 0 B 
+Guarana 6 9 3 0 0 G 
+Mlecz 5 5 3 0 0 M 
+WilczeJagody 5 8 3 9999 0 J 
+Guarana 7 2 2 0 0 G 
+Wilk 2 2 1 9 5 W 
+BarszczSosnowskiego 8 8 1 9999 0 B 
+BarszczSosnowskiego 4 8 1 9999 0 B 
+Guarana 6 2 1 0 0 G 
